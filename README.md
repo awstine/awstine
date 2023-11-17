@@ -19,7 +19,8 @@ Here are some ideas to get you started:-->
 <a href="https://www.linkedin.com/in/austine-jesse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="austine jesse" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwichabe&show_icons=true&locale=en&layout=compact" alt="mwichabe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awstine&show_icons=true&locale=en" alt="mwichabe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwichabe&show_icons=true&locale=en" alt="mwichabe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awstine&show_icons=true&locale=en&layout=compact" alt="awstine" /></p>
+
 
