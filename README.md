@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Kotlin
 - 📫 How to reach me: awstinejessy@gmail.com
 
-  [![wakatime](https://wakatime.com/badge/user/480fe0b5-93e2-4874-aac6-8887aa6a3322.svg)](https://wakatime.com/@480fe0b5-93e2-4874-aac6-8887aa6a3322)
+  <a href="https://wakatime.com/@480fe0b5-93e2-4874-aac6-8887aa6a3322"><img src="https://wakatime.com/badge/user/480fe0b5-93e2-4874-aac6-8887aa6a3322.svg" alt="Total time coded since May 30 2023" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
