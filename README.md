@@ -20,6 +20,7 @@ Here are some ideas to get you started:-->
 
 ## 🛠 Languages and Tools
 <br>
+
 <p align="center">
 <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
  <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -30,9 +31,13 @@ Here are some ideas to get you started:-->
 <a href="" title="Postman"><img src="https://img.shields.io/badge/Posrman-ED8B00?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
 </p>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awstine&hide_progress=true)
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Belair)](https://github.com/awstine/github-readme-stats)
+
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awstine&show_icons=true&locale=en" alt="mwichabe" /></p>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awstine&show_icons=true&locale=en&layout=compact" alt="awstine" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awstine&show_icons=true&locale=en&layout=compact" alt="awstine" /></p>-->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awstine&" alt="awstine" /></p>-->
 
